@@ -10,4 +10,3 @@ Disaster-Relief-Routing-System is a C++/Makefile-based project designed to optim
 - Makefile build system for ease of compilation on Unix/macOS/Linux  
 - Extensible — you can plug in different resource types, constraints, or objective functions  
 
-## 📁 Repository structure  
